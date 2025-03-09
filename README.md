@@ -1,4 +1,4 @@
-# Data Science and AI in Agriculture - Diploma Projects
+# Data Science and AI - Diploma Projects
 
 Welcome to the repository showcasing my journey through the **Diploma in Data Science and Artificial Intelligence Applied to Agriculture** at Universidad Autónoma Chapingo. This repository highlights my practical implementations and learnings across various topics in data science, machine learning, and artificial intelligence.
 
